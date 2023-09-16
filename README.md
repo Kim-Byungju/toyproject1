@@ -6,3 +6,4 @@
 ### version1.0 2023 09.11 -> mybatis사용 게시판 구현 
 ### version1.1 2023 09.11 -> rest controller 수정 중
 ### version1.2 2023 09.14 -> view 수정 중, 수정, 삭제기능 부터
+### version1.3 2023 09.16 -> 수정, 삭제기능 오류 수정
